@@ -1,6 +1,6 @@
-<img align="center" src="img.jpg" width=100% height=700/>
+[![MasterHead](img.jpg)]
 <h1 align="center">Hi 👋, I'm Roy Joshua Lasrado</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">An aspiring developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roy3443&label=Profile%20views&color=0e75b6&style=flat" alt="roy3443" /> </p>
 
