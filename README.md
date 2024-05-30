@@ -1,4 +1,4 @@
-![logo](img.jpg)
+![logo](animated_logo.gif)
 <h1 align="center">Hi 👋, I'm Roy</h1>
 <h3 align="center">I'm a Computer Science student with a deep passion for technology. My enthusiasm drives me to constantly learn, experiment, and collaborate on projects that push the boundaries of what's possible. I'm committed to leveraging my skills to create impactful technology that enhances everyday life.</h3>
 
