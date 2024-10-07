@@ -1,4 +1,5 @@
 ![logo](animated_logo.gif)
+[![An image of @roy3443's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/roy3443)](https://holopin.io/@roy3443)
 <h1 align="center">Heyo 👋, I'm Roy</h1>
 <h3 align="center">I'm a Computer Science student with a deep passion for technology. My enthusiasm drives me to constantly learn, experiment, and collaborate on projects that push the boundaries of what's possible. I'm committed to leveraging my skills to create impactful technology that enhances everyday life.</h3>
 
