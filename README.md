@@ -19,7 +19,5 @@
 <hr>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=roy3443&show_icons=true&locale=en&layout=compact" alt="roy3443" /></p>
 <hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roy3443&" alt="roy3443" /></p>
-<hr>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=roy3443&" alt="roy3443" /></p>
 
